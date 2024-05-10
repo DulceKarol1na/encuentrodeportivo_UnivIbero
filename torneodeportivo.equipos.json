@@ -1,5 +1,5 @@
-{"_id":{"$oid":"663bd524b5b0ae981057ec4e"},"nombre":"América de Cali Femenino"}
-{"_id":{"$oid":"663bd524b5b0ae981057ec4f"},"nombre":"Atlético Nacional Femenino"}
-{"_id":{"$oid":"663bd524b5b0ae981057ec50"},"nombre":"Deportivo Cali Femenino"}
-{"_id":{"$oid":"663bd524b5b0ae981057ec51"},"nombre":"Llaneros Femenino"}
-{"_id":{"$oid":"663bd524b5b0ae981057ec52"},"nombre":"Millonarios Femenino"}
+{"_id":{"$oid":"663bd524b5b0ae981057ec4e"},"nombre":"América de Cali Femenino","posicion_id":{"$oid":"663be2dcb5b0ae981057ece6"}}
+{"_id":{"$oid":"663bd524b5b0ae981057ec4f"},"nombre":"Atlético Nacional Femenino","posicion_id":{"$oid":"663be2dcb5b0ae981057ece7"}}
+{"_id":{"$oid":"663bd524b5b0ae981057ec50"},"nombre":"Deportivo Cali Femenino","posicion_id":{"$oid":"663be2dcb5b0ae981057ece8"}}
+{"_id":{"$oid":"663bd524b5b0ae981057ec51"},"nombre":"Llaneros Femenino","posicion_id":{"$oid":"663be2dcb5b0ae981057ece9"}}
+{"_id":{"$oid":"663bd524b5b0ae981057ec52"},"nombre":"Millonarios Femenino","posicion_id":{"$oid":"663be2dcb5b0ae981057ecea"}}
