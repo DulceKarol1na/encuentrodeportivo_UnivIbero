@@ -1,0 +1,115 @@
+{"_id":{"$oid":"663bdf1db5b0ae981057ec73"},"nombre":"Natalia Giraldo","equipo_id":{"$oid":"663bd524b5b0ae981057ec4e"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec53"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec74"},"nombre":"Nohelis Coronel","equipo_id":{"$oid":"663bd524b5b0ae981057ec4e"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec53"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec75"},"nombre":"Sara Iveth Lozano Patiño","equipo_id":{"$oid":"663bd524b5b0ae981057ec4e"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec53"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec76"},"nombre":"Fabiana Yanten","equipo_id":{"$oid":"663bd524b5b0ae981057ec4e"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec53"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec77"},"nombre":"Leury Basanta","equipo_id":{"$oid":"663bd524b5b0ae981057ec4e"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec53"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec78"},"nombre":"Tatiana Castaneda","equipo_id":{"$oid":"663bd524b5b0ae981057ec4e"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec53"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec79"},"nombre":"Ana Maria Fisgativa Pasos","equipo_id":{"$oid":"663bd524b5b0ae981057ec4e"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec53"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec7a"},"nombre":"Diana Ospina ","equipo_id":{"$oid":"663bd524b5b0ae981057ec4e"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec53"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec7b"},"nombre":"Mariana Muñoz","equipo_id":{"$oid":"663bd524b5b0ae981057ec4e"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec53"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec7c"},"nombre":"Carolina Pineda","equipo_id":{"$oid":"663bd524b5b0ae981057ec4e"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec53"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec7d"},"nombre":"María Agudelo","equipo_id":{"$oid":"663bd524b5b0ae981057ec4e"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec53"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec7e"},"nombre":"Sara Martinez","equipo_id":{"$oid":"663bd524b5b0ae981057ec4e"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec53"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec7f"},"nombre":"Jessica Caro","equipo_id":{"$oid":"663bd524b5b0ae981057ec4e"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec53"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec80"},"nombre":"Gabriela Rodríguez","equipo_id":{"$oid":"663bd524b5b0ae981057ec4e"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec53"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec81"},"nombre":"Mariana Zamorano","equipo_id":{"$oid":"663bd524b5b0ae981057ec4e"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec53"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec82"},"nombre":"Wendy Bonilla","equipo_id":{"$oid":"663bd524b5b0ae981057ec4e"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec53"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec83"},"nombre":"Ingrid Vidal","equipo_id":{"$oid":"663bd524b5b0ae981057ec4e"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec53"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec84"},"nombre":"JYLIS JULIETH CORENA CALDERIN","equipo_id":{"$oid":"663bd524b5b0ae981057ec4f"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec54"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec85"},"nombre":"YISELA CUESTA BEJARANO","equipo_id":{"$oid":"663bd524b5b0ae981057ec4f"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec54"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec86"},"nombre":"JOSELYN STEFANIA ESPINALES CABRERA","equipo_id":{"$oid":"663bd524b5b0ae981057ec4f"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec54"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec87"},"nombre":"HARY IDALI GARCIA ZULETA","equipo_id":{"$oid":"663bd524b5b0ae981057ec4f"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec54"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec88"},"nombre":"JEIMY ANGELICA JAIMES VARGAS","equipo_id":{"$oid":"663bd524b5b0ae981057ec4f"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec54"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec89"},"nombre":"YUNAIRA JESSELY LOPEZ MORENO","equipo_id":{"$oid":"663bd524b5b0ae981057ec4f"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec54"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec8a"},"nombre":"DANIELA MONTOYA QUIROZ","equipo_id":{"$oid":"663bd524b5b0ae981057ec4f"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec54"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec8b"},"nombre":"ISABELLA MOSQUERA MESA","equipo_id":{"$oid":"663bd524b5b0ae981057ec4f"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec54"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec8c"},"nombre":"MAIRA ALEJANDRA NEIRA HINCAPIE","equipo_id":{"$oid":"663bd524b5b0ae981057ec4f"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec54"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec8d"},"nombre":"LIZ KATERINE OSORIO ZULETA","equipo_id":{"$oid":"663bd524b5b0ae981057ec4f"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec54"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec8e"},"nombre":"SARA CRISTINA OSPINO SERNA","equipo_id":{"$oid":"663bd524b5b0ae981057ec4f"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec54"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec8f"},"nombre":"MARIA DE LOS ANGELES PORTILLO TORRES","equipo_id":{"$oid":"663bd524b5b0ae981057ec4f"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec54"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec90"},"nombre":"MARCELA RESTREPO VALENCIA","equipo_id":{"$oid":"663bd524b5b0ae981057ec4f"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec54"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec91"},"nombre":"HAZLEYDI YORELY RINCON TORRES","equipo_id":{"$oid":"663bd524b5b0ae981057ec4f"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec54"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec92"},"nombre":"DANNA GISSEI AGAMEZ HERNANDEZ","equipo_id":{"$oid":"663bd524b5b0ae981057ec4f"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec54"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec93"},"nombre":"LAURA AGUIRRE MONTOYA","equipo_id":{"$oid":"663bd524b5b0ae981057ec4f"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec54"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec94"},"nombre":"MARY JOSE ALVAREZ ESPITALETA","equipo_id":{"$oid":"663bd524b5b0ae981057ec4f"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec54"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec95"},"nombre":"MARIA JULIANA ARBOLEDA HINCAPIE","equipo_id":{"$oid":"663bd524b5b0ae981057ec4f"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec54"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec96"},"nombre":"ANGELA DANIELA BARON","equipo_id":{"$oid":"663bd524b5b0ae981057ec4f"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec54"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec97"},"nombre":"WENDY DAPHNE CARDENAS HERRERA","equipo_id":{"$oid":"663bd524b5b0ae981057ec4f"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec54"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec98"},"nombre":"GERALDINE LICET CARDONA BEDOYA","equipo_id":{"$oid":"663bd524b5b0ae981057ec4f"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec54"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec99"},"nombre":"SARA KAMILA CORDOBA GAVIRIA","equipo_id":{"$oid":"663bd524b5b0ae981057ec4f"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec54"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec9a"},"nombre":"VANESSA CORDOBA ARTEAGA","equipo_id":{"$oid":"663bd524b5b0ae981057ec4f"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec54"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec9b"},"nombre":"YULIETH MELISSA RIVAS VILLA","equipo_id":{"$oid":"663bd524b5b0ae981057ec4f"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec54"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec9c"},"nombre":"DANIELA VALENCIA OROZCO","equipo_id":{"$oid":"663bd524b5b0ae981057ec4f"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec54"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec9d"},"nombre":"KARINA VALENCIA MARTINEZ","equipo_id":{"$oid":"663bd524b5b0ae981057ec4f"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec54"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec9e"},"nombre":"MICHELLE VASQUEZ","equipo_id":{"$oid":"663bd524b5b0ae981057ec50"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec55"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ec9f"},"nombre":"DANIELA FAJARDO","equipo_id":{"$oid":"663bd524b5b0ae981057ec50"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec55"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057eca0"},"nombre":"MARIA CAMILA GIRALDO MILLAN","equipo_id":{"$oid":"663bd524b5b0ae981057ec50"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec55"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057eca1"},"nombre":"INGRID JOBANA GUERRA MENESES","equipo_id":{"$oid":"663bd524b5b0ae981057ec50"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec55"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057eca2"},"nombre":"NATALIA HERNANDEZ SULES","equipo_id":{"$oid":"663bd524b5b0ae981057ec50"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec55"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057eca3"},"nombre":"KELLY ANDREA IBARGUEN ","equipo_id":{"$oid":"663bd524b5b0ae981057ec50"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec55"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057eca4"},"nombre":"VALERIN LOBOA VASQUEZ","equipo_id":{"$oid":"663bd524b5b0ae981057ec50"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec55"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057eca5"},"nombre":"PAULA ANDREA MEDINA JIMENEZ","equipo_id":{"$oid":"663bd524b5b0ae981057ec50"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec55"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057eca6"},"nombre":"LAURA DANIELA OROZCO VIDAL","equipo_id":{"$oid":"663bd524b5b0ae981057ec50"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec55"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057eca7"},"nombre":"JUANA SOFIA ORTEGON GIRALDO","equipo_id":{"$oid":"663bd524b5b0ae981057ec50"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec55"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057eca8"},"nombre":"JIMENA OSPINA DOMINGUEZ","equipo_id":{"$oid":"663bd524b5b0ae981057ec50"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec55"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057eca9"},"nombre":"MANUELA PAVI SEPULVEDA","equipo_id":{"$oid":"663bd524b5b0ae981057ec50"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec55"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecaa"},"nombre":"STEFANIA PERLAZA PERLAZA","equipo_id":{"$oid":"663bd524b5b0ae981057ec50"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec55"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecab"},"nombre":"CRISTINA ISABEL RIOS CANCINO","equipo_id":{"$oid":"663bd524b5b0ae981057ec50"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec55"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecac"},"nombre":"MANUELA ROA ALAPE","equipo_id":{"$oid":"663bd524b5b0ae981057ec50"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec55"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecad"},"nombre":"MARIANA VALENCIA MARULANDA","equipo_id":{"$oid":"663bd524b5b0ae981057ec50"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec55"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecae"},"nombre":"LUISA FERNANDA AGUDELO MORELO","equipo_id":{"$oid":"663bd524b5b0ae981057ec50"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec55"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecaf"},"nombre":"MELANIN TATIANA APONZA GUTIERREZ","equipo_id":{"$oid":"663bd524b5b0ae981057ec50"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec55"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecb0"},"nombre":"LINA MARCELA ARBOLEDA VASQUEZ","equipo_id":{"$oid":"663bd524b5b0ae981057ec50"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec55"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecb1"},"nombre":"YESSICA JHOANA BERMEO MORALES","equipo_id":{"$oid":"663bd524b5b0ae981057ec50"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec55"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecb2"},"nombre":"KELLY JOHANA CAICEDO ALEGRIA","equipo_id":{"$oid":"663bd524b5b0ae981057ec50"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec55"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecb3"},"nombre":"LICETH VALERIA CARDENAS RAMIREZ","equipo_id":{"$oid":"663bd524b5b0ae981057ec50"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec55"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecb4"},"nombre":"KATHERINE LINETH CASTILLO MACIAS","equipo_id":{"$oid":"663bd524b5b0ae981057ec50"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec55"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecb5"},"nombre":"LILIHOSKI SARAI GARCIA HERNANDEZ","equipo_id":{"$oid":"663bd524b5b0ae981057ec50"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec55"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecb6"},"nombre":"PAOLA ANDREA GARCIA CACERES","equipo_id":{"$oid":"663bd524b5b0ae981057ec50"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec55"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecb7"},"nombre":"PAOLA ANDREA LATORRE MONTOYA","equipo_id":{"$oid":"663bd524b5b0ae981057ec51"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec56"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecb8"},"nombre":"NANCY MILENA MADRID RESTREPO","equipo_id":{"$oid":"663bd524b5b0ae981057ec51"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec56"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecb9"},"nombre":"PAULA DANIELA MONTAÑEZ URREGO","equipo_id":{"$oid":"663bd524b5b0ae981057ec51"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec56"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecba"},"nombre":"ZHARICK YULIANA MONTOYA CAMACHO","equipo_id":{"$oid":"663bd524b5b0ae981057ec51"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec56"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecbb"},"nombre":"LISSETH MORENO QUINTERO","equipo_id":{"$oid":"663bd524b5b0ae981057ec51"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec56"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecbc"},"nombre":"YESICA PAOLA MUÑOZ ROJAS","equipo_id":{"$oid":"663bd524b5b0ae981057ec51"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec56"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecbd"},"nombre":"CAMILA ANDREA RUSSI CANO","equipo_id":{"$oid":"663bd524b5b0ae981057ec51"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec56"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecbe"},"nombre":"LOREN YANID SANCHEZ PLAZAS","equipo_id":{"$oid":"663bd524b5b0ae981057ec51"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec56"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecbf"},"nombre":"SAHARA TORRES YEPEZ","equipo_id":{"$oid":"663bd524b5b0ae981057ec51"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec56"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecc0"},"nombre":"GABRIELA URUEÑA MUÑOZ","equipo_id":{"$oid":"663bd524b5b0ae981057ec51"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec56"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecc1"},"nombre":"VALERIA AGUDELO CORTES","equipo_id":{"$oid":"663bd524b5b0ae981057ec51"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec56"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecc2"},"nombre":"JULIETH LIZETH CAMACHO MELO","equipo_id":{"$oid":"663bd524b5b0ae981057ec51"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec56"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecc3"},"nombre":"BRENDA MICHELL CARDONA MAHECHA","equipo_id":{"$oid":"663bd524b5b0ae981057ec51"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec56"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecc4"},"nombre":"LAURA NATALY CASTAÑO CARDOSO","equipo_id":{"$oid":"663bd524b5b0ae981057ec51"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec56"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecc5"},"nombre":"YESTERLY ALEJANDRA CASTILLO CHAPARRO","equipo_id":{"$oid":"663bd524b5b0ae981057ec51"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec56"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecc6"},"nombre":"LEIDY LORENA COBOS GARZON","equipo_id":{"$oid":"663bd524b5b0ae981057ec51"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec56"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecc7"},"nombre":"MANUELA GOMEZ LONDOÑO","equipo_id":{"$oid":"663bd524b5b0ae981057ec51"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec56"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecc8"},"nombre":"KAREN DAHANNA GUTIERREZ PEREZ","equipo_id":{"$oid":"663bd524b5b0ae981057ec51"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec56"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecc9"},"nombre":"VALENTINA JARAMILLO GARZON","equipo_id":{"$oid":"663bd524b5b0ae981057ec51"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec56"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecca"},"nombre":"DIANA ALEXANDRA CHAVES CADENA","equipo_id":{"$oid":"663bd524b5b0ae981057ec52"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec57"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057eccb"},"nombre":"MARIA FERNANDA FLOREZ TORRES","equipo_id":{"$oid":"663bd524b5b0ae981057ec52"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec57"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057eccc"},"nombre":"LAURA DANIELA GARAVITO PERDOMO","equipo_id":{"$oid":"663bd524b5b0ae981057ec52"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec57"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057eccd"},"nombre":"LINA MARCELA GOMEZ MEDINA","equipo_id":{"$oid":"663bd524b5b0ae981057ec52"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec57"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecce"},"nombre":"ANA MILE GONZALEZ HERRERA","equipo_id":{"$oid":"663bd524b5b0ae981057ec52"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec57"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057eccf"},"nombre":"MARIA FERNANDA GUTIERREZ MORENO","equipo_id":{"$oid":"663bd524b5b0ae981057ec52"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec57"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecd0"},"nombre":"MARIA ALEJANDRA LEAL AROCA","equipo_id":{"$oid":"663bd524b5b0ae981057ec52"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec57"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecd1"},"nombre":"MICHELL VALENTINA LUGO TORRES","equipo_id":{"$oid":"663bd524b5b0ae981057ec52"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec57"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecd2"},"nombre":"MARIA NISA MARQUINEZ JACOME","equipo_id":{"$oid":"663bd524b5b0ae981057ec52"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec57"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecd3"},"nombre":"ADRIANA MARIA OJEDA GUEVARA","equipo_id":{"$oid":"663bd524b5b0ae981057ec52"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec57"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecd4"},"nombre":"LESLY BELEN OLIVARES RIVEROS","equipo_id":{"$oid":"663bd524b5b0ae981057ec52"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec57"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecd5"},"nombre":"LUNA FERNANDA REYES RUIZ","equipo_id":{"$oid":"663bd524b5b0ae981057ec52"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec57"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecd6"},"nombre":"JESSICA ROMERO LOPEZ","equipo_id":{"$oid":"663bd524b5b0ae981057ec52"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec57"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecd7"},"nombre":"KENA MARCELA ROMERO SOTO","equipo_id":{"$oid":"663bd524b5b0ae981057ec52"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec57"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecd8"},"nombre":"LIANA MILENA SALAZAR VERGARA","equipo_id":{"$oid":"663bd524b5b0ae981057ec52"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec57"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecd9"},"nombre":"MARIA ALEJANDRA SANCHEZ ESPINEL","equipo_id":{"$oid":"663bd524b5b0ae981057ec52"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec57"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecda"},"nombre":"LAURA VIVIANA TAMAYO VASQUEZ","equipo_id":{"$oid":"663bd524b5b0ae981057ec52"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec57"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecdb"},"nombre":"MARIA JOSE TORRES CRISTANCHO","equipo_id":{"$oid":"663bd524b5b0ae981057ec52"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec57"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecdc"},"nombre":"REINA SOFIA TORRES MALDONADO","equipo_id":{"$oid":"663bd524b5b0ae981057ec52"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec57"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecdd"},"nombre":"ASLY KATALINA AMAYA RAMIREZ","equipo_id":{"$oid":"663bd524b5b0ae981057ec52"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec57"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecde"},"nombre":"KATHERIN YISEL ARCILA VELASCO","equipo_id":{"$oid":"663bd524b5b0ae981057ec52"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec57"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ecdf"},"nombre":"TATIANA ARIZA DIAZ","equipo_id":{"$oid":"663bd524b5b0ae981057ec52"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec57"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ece0"},"nombre":"MARIANA DE LOS ANGELES BENAVIDES ARGUEDAS","equipo_id":{"$oid":"663bd524b5b0ae981057ec52"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec57"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ece1"},"nombre":"LAURA VANESSA BOLAÑO NEGRETE","equipo_id":{"$oid":"663bd524b5b0ae981057ec52"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec57"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ece2"},"nombre":"GABRIELA FERNANDA BORQUEZ VARGAS","equipo_id":{"$oid":"663bd524b5b0ae981057ec52"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec57"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ece3"},"nombre":"LEDYS ESTHER CALVO NAVARRO","equipo_id":{"$oid":"663bd524b5b0ae981057ec52"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec57"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ece4"},"nombre":"KAREN DANIELA CASTELLANOS FONSECA","equipo_id":{"$oid":"663bd524b5b0ae981057ec52"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec57"}}
+{"_id":{"$oid":"663bdf1db5b0ae981057ece5"},"nombre":"DIANA MARCELA CELIS GONZALEZ","equipo_id":{"$oid":"663bd524b5b0ae981057ec52"},"entrenadores_id":{"$oid":"663bd728b5b0ae981057ec57"}}

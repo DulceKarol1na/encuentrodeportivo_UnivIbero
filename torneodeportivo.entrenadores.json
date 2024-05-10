@@ -1,0 +1,5 @@
+{"_id":{"$oid":"663bd728b5b0ae981057ec53"},"nombre":"Daniel Mejía","equipo_id":{"$oid":"663bd524b5b0ae981057ec4e"}}
+{"_id":{"$oid":"663bd728b5b0ae981057ec54"},"nombre":"Jorge Mario Barreneche","equipo_id":{"$oid":"663bd524b5b0ae981057ec4f"}}
+{"_id":{"$oid":"663bd728b5b0ae981057ec55"},"nombre":"JHON ALBER ORTIZ ARCE","equipo_id":{"$oid":"663bd524b5b0ae981057ec50"}}
+{"_id":{"$oid":"663bd728b5b0ae981057ec56"},"nombre":"BERLEY VILLA RESTREPO","equipo_id":{"$oid":"663bd524b5b0ae981057ec51"}}
+{"_id":{"$oid":"663bd728b5b0ae981057ec57"},"nombre":"ANGIE VERONICA VEGA FRANCO","equipo_id":{"$oid":"663bd524b5b0ae981057ec52"}}
