@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"key":{"fieldName":{"$numberInt":"1"}},"name":"fieldName_1"}],"uuid":"fcd6faaadf754c8f84ef387a80cd0084","collectionName":"deportes","type":"collection"}
